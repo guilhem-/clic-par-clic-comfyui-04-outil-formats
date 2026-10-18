@@ -100,7 +100,7 @@ Dépliez les appels d'outil pour lire les arguments choisis par le modèle.
 - Module précédent : **Retoucher une image** —
   [`clic-par-clic-comfyui-03-retouche`](https://github.com/guilhem-/clic-par-clic-comfyui-03-retouche).
 - Module suivant : **Qui peut générer des images ?** (permissions par groupe) —
-  `clic-par-clic-comfyui-05-…` (à paraître).
+  [`clic-par-clic-comfyui-05-droits-groupes`](https://github.com/guilhem-/clic-par-clic-comfyui-05-droits-groupes).
 
 ## Licence
 
